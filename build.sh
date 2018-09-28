@@ -1,5 +1,5 @@
 #!/bin/bash
-# Run the build utility via Docker
+# Run the build utility via Docker  ad
 
 set -e
 
