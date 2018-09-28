@@ -16,3 +16,4 @@ git pull || true
 # Run normal build.py
 cd "$PROJECT_DIR"
 exec ./build.py "$@"
+#test
